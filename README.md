@@ -4,7 +4,7 @@ Dear survey participant,
 
 Thank you very much for sparing 15 minutes of your time to answer our questionnaire. We are researchers investigating how requirements engineering and assurance case development are intertwined in the development of safety-critical systems. We seek to understand how these two areas are currently integrated and what are the opinions of professionals towards their integration.
 
-Survey link: https://bit.ly/survey-re-assurance
+Survey link: [https://bit.ly/survey-re-assurance](https://bit.ly/survey-re-assurance)
 
 For further information/questions, please contact:
 * Msc. Camilo Almendra at cca3@cin.ufpe.br (primary contact - Universidade Federal de Pernambuco/Brazil)
