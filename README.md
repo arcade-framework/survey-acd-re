@@ -26,4 +26,6 @@ The survey includes several questions structured into the following categories:
 * Integrated Development Practices
 * Personal Opinion on Integrated Development
 
+The complete instrument is available [here.](https://github.com/ccalmendra/survey-acd-re/blob/master/Survey%20ACD-RE%20-%20instrument.pdf)
+
 In the end, you will be asked to enter your email address voluntarily. Provided you agree, we will use that address to latter provide you with an overview of the survey results. In any case, please rest assured that the survey follows a high academic standard and is conducted anonymously. The address will be removed from the data set during the export so that no association with your answers will be possible. 
